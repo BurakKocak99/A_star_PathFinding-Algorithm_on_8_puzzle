@@ -1,1 +1,2 @@
-# A_star_PathFinding-Algorithm_on_8_puzzle
+# A* Path-Finding Algorithm on 8 puzzle
+A* search to solve and 8-puzzle and visualize each chosen move. 
